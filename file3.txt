@@ -1,2 +1,0 @@
-File 3
-Menambah baris di file3
